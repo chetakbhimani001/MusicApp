@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EncoraTest</string>
+    <string name="data_missing">Data missing</string>
+    <string name="internet_not_available">Internet not available. Please try again!!</string>
+</resources>
